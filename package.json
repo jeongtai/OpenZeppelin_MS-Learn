@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jeongtai/OpenZeppelin_MS-Learn/issues"
   },
-  "homepage": "https://github.com/jeongtai/OpenZeppelin_MS-Learn#readme"
+  "homepage": "https://github.com/jeongtai/OpenZeppelin_MS-Learn#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
 }
